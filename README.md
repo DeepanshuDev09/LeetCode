@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/DeepanshuDev09/LeetCode/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/DeepanshuDev09/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
