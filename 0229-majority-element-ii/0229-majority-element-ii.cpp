@@ -3,7 +3,7 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         int times = nums.size()/3;
         vector<int> result;
-        map<int, int> freq;
+        unordered_map<int, int> freq;
 
         for(int i: nums){
             freq[i]++;
