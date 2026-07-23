@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/DeepanshuDev09/LeetCode/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/DeepanshuDev09/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/DeepanshuDev09/LeetCode/tree/master/0493-reverse-pairs) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/DeepanshuDev09/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
