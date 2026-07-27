@@ -1,16 +1,14 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        vector<ListNode*> visited;
-        ListNode* temp = head;
+        ListNode *slow = head, *fast = head;
 
-        while (temp) {
-            auto it = find(visited.begin(), visited.end(), temp);
-            if (it != visited.end())
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+
+            if (slow == fast)
                 return true;
-
-            visited.push_back(temp);
-            temp = temp->next;
         }
 
         return false;
