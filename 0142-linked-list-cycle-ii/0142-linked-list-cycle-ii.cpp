@@ -9,17 +9,25 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        vector<ListNode*> visted;
-        ListNode* temp = head;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        while (temp){
-            auto it = find(visted.begin(), visted.end(), temp);
-            if (it != visted.end()) return temp;
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
 
-            visted.push_back(temp);
-            temp = temp->next;
+            if (slow == fast) {
+                slow = head;
+
+                while (slow != fast) {
+                    slow = slow->next;
+                    fast = fast->next;
+                }
+
+                return slow;
+            }
         }
 
-        return nullptr;
+        return NULL;
     }
 };
