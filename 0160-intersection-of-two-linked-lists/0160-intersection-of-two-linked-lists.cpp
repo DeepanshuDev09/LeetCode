@@ -9,24 +9,45 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        vector<ListNode*> list1;
-        ListNode* temp = headA;
+        int lenA = 0;
+        int lenB = 0;
+        ListNode* tempA = headA;
+        ListNode* tempB = headB;
 
-        while (temp){
-            list1.push_back(temp);
-            temp = temp->next;
+        while (tempA){
+            lenA++;
+            tempA = tempA->next;
         }
 
-        temp = headB;
-
-        while (temp){
-            
-            auto it = find(list1.begin(), list1.end(), temp);
-            if (it != list1.end()) return temp;
-
-            temp = temp->next;
+        while (tempB){
+            lenB++;
+            tempB = tempB->next;
         }
 
-        return nullptr;
+        tempA = headA;
+        tempB = headB;
+
+        if (lenA > lenB){
+            int diff = lenA - lenB;
+            while (diff != 0){
+                tempA = tempA->next;
+                diff--; 
+            }
+        }
+        else {
+            int diff = lenB - lenA;
+            while (diff != 0){
+                tempB = tempB->next;
+                diff--; 
+            }
+        }
+
+        while (tempA && tempB){
+            if (tempA == tempB) return tempA;
+            tempA = tempA->next;
+            tempB = tempB->next;
+        }
+
+        return nullptr; 
     }
 };
