@@ -3,38 +3,59 @@ public:
     int maximalRectangle(vector<vector<char>>& matrix) {
         int n = matrix[0].size();
         int m = matrix.size();
-        int ans = 0;
+        int maxArea = 0;
+        vector<int> arr(n, 0);
 
         for (int i = 0; i<m; i++){
-            
+
             for (int j = 0; j<n; j++){
+                if (matrix[i][j] == '0'){
+                    arr[j] = 0;
+                }
+                else {
+                    arr[j] += 1;
+                }
+            }
 
-                if (matrix[i][j] == '0') continue;
+            stack<int> stLeft;
+            vector<int> ans(n, 1);
 
-                int row = j, col = i;
-                int rowCount = 0, colCount = 0;
+            for (int j = 0; j<n; j++) {
 
-                while (row < n && matrix[i][row] == '1'){
-                    row++; rowCount++;
-                    ans = max(ans, rowCount);
+                while (!stLeft.empty() && arr[stLeft.top()] >= arr[j]) stLeft.pop();
+
+                if (!stLeft.empty()) {
+                    ans[j] += j - stLeft.top() - 1;
+                } else {
+                    ans[j] += j;
                 }
 
-                int width = rowCount;
+                stLeft.push(j);
+            }
 
-                while (col < m && matrix[col][j] == '1'){ 
+            stack<int> stRight;
 
-                    row = j+1; rowCount = 1;
-                    while (row < n && matrix[col][row] == '1'){
-                        row++; rowCount++;
-                    }
+            for (int j = n - 1; j >= 0; j--) {
 
-                    col++; colCount++;
-                    width = min(rowCount, width);
-                    ans = max(ans, (width * colCount));  
+                while (!stRight.empty() &&
+                       arr[stRight.top()] >= arr[j]) {
+                    stRight.pop();
                 }
+
+                if (!stRight.empty())
+                    ans[j] += stRight.top() - j - 1;
+                else
+                    ans[j] += n - j - 1;
+
+                stRight.push(j);
+            }
+
+            for (int j = 0; j<n; j++){
+                int currArea = arr[j] * ans[j];
+                maxArea = max(maxArea, currArea);
             }
         }
 
-        return ans;
+        return maxArea;
     }
 };
