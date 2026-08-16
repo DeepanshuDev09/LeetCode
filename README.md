@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/DeepanshuDev09/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepanshuDev09/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DeepanshuDev09/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DeepanshuDev09/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepanshuDev09/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DeepanshuDev09/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/DeepanshuDev09/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DeepanshuDev09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/DeepanshuDev09/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DeepanshuDev09/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DeepanshuDev09/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DeepanshuDev09/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DeepanshuDev09/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/DeepanshuDev09/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DeepanshuDev09/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/DeepanshuDev09/LeetCode/tree/master/1922-count-good-numbers) |
 ## Two Pointers
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/DeepanshuDev09/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DeepanshuDev09/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepanshuDev09/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DeepanshuDev09/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepanshuDev09/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DeepanshuDev09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/DeepanshuDev09/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DeepanshuDev09/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DeepanshuDev09/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepanshuDev09/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
