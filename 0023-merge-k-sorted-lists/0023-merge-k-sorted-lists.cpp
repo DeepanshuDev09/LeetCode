@@ -14,45 +14,23 @@ class Solution {
         if (head1 == nullptr) return head2;
         if (head2 == nullptr) return head1;
 
-        ListNode* newHead = nullptr;
-        ListNode* temp = nullptr;
+        ListNode dummy;
+        ListNode* node = &dummy;
 
-        if (head1->val < head2->val){
-            newHead = head1;
-            temp = head1;
-            head1 = head1->next;
-        }
-        else {
-            newHead = head2;
-            temp = head2;
-            head2 = head2->next;
-        }
-
-        while (head1 && head2){
-            if (head1->val < head2->val){
-                temp->next = head1;
+        while (head1 && head2) {
+            if (head1->val > head2->val) {
+                node->next = head2;
+                head2 = head2->next;
+            } else {
+                node->next = head1;
                 head1 = head1->next;
             }
-            else {
-                temp->next = head2;
-                head2 = head2->next;
-            }
-            temp = temp->next;
+            node = node->next;
         }
 
-        while (head1) {
-            temp->next = head1;
-            head1 = head1->next;
-            temp = temp->next;
-        }
+        node->next = head1 ? head1 : head2;
 
-        while (head2) {
-            temp->next = head2;
-            head2 = head2->next;
-            temp = temp->next;
-        }
-
-        return newHead;
+        return dummy.next;
     }
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
