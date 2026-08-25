@@ -1,20 +1,19 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        map<int, int> multiples;
-
-        for (int i = 1; i<=nums.size(); i++){
-            multiples[k*i]++;
-        }
+        vector<int> multiples(nums.size(), -1);
 
         for (int i = 0; i<nums.size(); i++){
             if (nums[i] % k == 0){
-                multiples[nums[i]] = 0;
+                int curr = nums[i]/k - 1;
+                if (curr >= 0 && curr < multiples.size()) {
+                    multiples[curr] = 1;
+                }
             }
         }
 
-        for (auto it: multiples){
-            if (it.second == 1) return it.first;
+        for (int i = 0; i<multiples.size(); i++){
+            if (multiples[i] == -1) return k*(i+1);
         }
 
         return k*(nums.size()+1);
