@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DeepanshuDev09/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DeepanshuDev09/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DeepanshuDev09/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepanshuDev09/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
 | ------- |
