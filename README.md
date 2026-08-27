@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DeepanshuDev09/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DeepanshuDev09/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DeepanshuDev09/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DeepanshuDev09/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepanshuDev09/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DeepanshuDev09/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DeepanshuDev09/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DeepanshuDev09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DeepanshuDev09/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DeepanshuDev09/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DeepanshuDev09/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DeepanshuDev09/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DeepanshuDev09/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
