@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/DeepanshuDev09/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/DeepanshuDev09/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/DeepanshuDev09/LeetCode/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/DeepanshuDev09/LeetCode/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/DeepanshuDev09/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/DeepanshuDev09/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/DeepanshuDev09/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/DeepanshuDev09/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepanshuDev09/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0846-hand-of-straights](https://github.com/DeepanshuDev09/LeetCode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/DeepanshuDev09/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DeepanshuDev09/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DeepanshuDev09/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DeepanshuDev09/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/DeepanshuDev09/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/DeepanshuDev09/LeetCode/tree/master/0605-can-place-flowers) |
+| [0846-hand-of-straights](https://github.com/DeepanshuDev09/LeetCode/tree/master/0846-hand-of-straights) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepanshuDev09/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/1927-sum-game) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DeepanshuDev09/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepanshuDev09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0846-hand-of-straights](https://github.com/DeepanshuDev09/LeetCode/tree/master/0846-hand-of-straights) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepanshuDev09/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DeepanshuDev09/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
