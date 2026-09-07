@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DeepanshuDev09/LeetCode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepanshuDev09/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/DeepanshuDev09/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DeepanshuDev09/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DeepanshuDev09/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/DeepanshuDev09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
 |  |
 | ------- |
