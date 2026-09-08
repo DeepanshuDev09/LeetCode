@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DeepanshuDev09/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/DeepanshuDev09/LeetCode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/DeepanshuDev09/LeetCode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/DeepanshuDev09/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DeepanshuDev09/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/DeepanshuDev09/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DeepanshuDev09/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/DeepanshuDev09/LeetCode/tree/master/0605-can-place-flowers) |
 | [0846-hand-of-straights](https://github.com/DeepanshuDev09/LeetCode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/DeepanshuDev09/LeetCode/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepanshuDev09/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/1927-sum-game) |
