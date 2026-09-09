@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/DeepanshuDev09/LeetCode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/DeepanshuDev09/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DeepanshuDev09/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
