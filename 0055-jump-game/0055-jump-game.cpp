@@ -1,27 +1,18 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        int i = 0;
         int n = nums.size();
+        int curr = nums[0];
 
-        vector<bool> indexGo(n, false);
-
-        for (int i = n-1; i>=0; i--){
-            if (i == n - 1){
-                indexGo[i] = true;
-                continue;
+        for (int i = 0; i<n; i++){
+            if (i <= curr){
+                curr = max(i + nums[i], curr);
             }
-
-            int temp = i + nums[i];
-            while (temp > i){
-                if (temp < n && indexGo[temp] == true){
-                    indexGo[i] = true;
-                    break;
-                }
-                temp--;
+            else {
+                return false;
             }
         }
 
-        return indexGo[0];
+        return true;
     }
 };
