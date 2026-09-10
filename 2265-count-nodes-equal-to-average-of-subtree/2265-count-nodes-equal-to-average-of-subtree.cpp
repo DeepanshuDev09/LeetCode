@@ -10,36 +10,26 @@
  * };
  */
 class Solution {
-    void solve(TreeNode* root, int& ans){
-        if (root == nullptr) return;
-
-        int currSum = root->val + sumTree(root->left) + sumTree(root->right);
-        int nodeCount = 1 + countNodes(root->left) + countNodes(root->right);
-
-        if (root->val == currSum/nodeCount) ans++;
-
-        solve(root->right, ans);
-        solve(root->left, ans);
-    }
-
-    int sumTree(TreeNode* root) {
-        if (root == nullptr)
-            return 0;
-
-        return root->val + sumTree(root->left) + sumTree(root->right);
-    }
-
-    int countNodes(TreeNode* root) {
-        if (root == nullptr)
-            return 0;
-
-        return 1 + countNodes(root->left) + countNodes(root->right);
-    }
-
 public:
+    pair<int,int> helper(TreeNode *root,int & ans){
+        if(root == nullptr) return {0,0};
+
+        auto left = helper(root->left, ans);
+        auto right = helper(root->right, ans);
+
+        int sum = root->val + left.first + right.first;
+        int count = 1 + left.second + right.second;
+
+        if(root->val == (sum/count)) ans++;
+
+        return {sum,count};
+    }
+
     int averageOfSubtree(TreeNode* root) {
         int ans = 0;
-        solve(root, ans);
+
+        helper(root,ans);
+
         return ans;
     }
 };
