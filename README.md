@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/DeepanshuDev09/LeetCode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/DeepanshuDev09/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/DeepanshuDev09/LeetCode/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/DeepanshuDev09/LeetCode/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/DeepanshuDev09/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/DeepanshuDev09/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DeepanshuDev09/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DeepanshuDev09/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/DeepanshuDev09/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/DeepanshuDev09/LeetCode/tree/master/0835-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
