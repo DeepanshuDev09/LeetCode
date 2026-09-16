@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/DeepanshuDev09/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DeepanshuDev09/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeepanshuDev09/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/DeepanshuDev09/LeetCode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/1927-sum-game) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/DeepanshuDev09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeepanshuDev09/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeepanshuDev09/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DeepanshuDev09/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DeepanshuDev09/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DeepanshuDev09/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DeepanshuDev09/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeepanshuDev09/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepanshuDev09/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/DeepanshuDev09/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -577,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DeepanshuDev09/LeetCode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeepanshuDev09/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
