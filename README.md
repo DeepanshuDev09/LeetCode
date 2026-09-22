@@ -4,6 +4,32 @@ A collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/DeepanshuDev09/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/DeepanshuDev09/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DeepanshuDev09/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/DeepanshuDev09/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DeepanshuDev09/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/DeepanshuDev09/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/DeepanshuDev09/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/DeepanshuDev09/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/DeepanshuDev09/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuDev09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/DeepanshuDev09/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/DeepanshuDev09/LeetCode/tree/master/0198-house-robber) |
+| [0410-split-array-largest-sum](https://github.com/DeepanshuDev09/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/DeepanshuDev09/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/DeepanshuDev09/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/0877-stone-game) |
+| [0907-sum-of-subarray-minimums](https://github.com/DeepanshuDev09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeepanshuDev09/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeepanshuDev09/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DeepanshuDev09/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,32 +167,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DeepanshuDev09/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DeepanshuDev09/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DeepanshuDev09/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/DeepanshuDev09/LeetCode/tree/master/0005-longest-palindromic-substring) |
-| [0022-generate-parentheses](https://github.com/DeepanshuDev09/LeetCode/tree/master/0022-generate-parentheses) |
-| [0042-trapping-rain-water](https://github.com/DeepanshuDev09/LeetCode/tree/master/0042-trapping-rain-water) |
-| [0045-jump-game-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/0045-jump-game-ii) |
-| [0053-maximum-subarray](https://github.com/DeepanshuDev09/LeetCode/tree/master/0053-maximum-subarray) |
-| [0055-jump-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/0055-jump-game) |
-| [0062-unique-paths](https://github.com/DeepanshuDev09/LeetCode/tree/master/0062-unique-paths) |
-| [0070-climbing-stairs](https://github.com/DeepanshuDev09/LeetCode/tree/master/0070-climbing-stairs) |
-| [0085-maximal-rectangle](https://github.com/DeepanshuDev09/LeetCode/tree/master/0085-maximal-rectangle) |
-| [0115-distinct-subsequences](https://github.com/DeepanshuDev09/LeetCode/tree/master/0115-distinct-subsequences) |
-| [0118-pascals-triangle](https://github.com/DeepanshuDev09/LeetCode/tree/master/0118-pascals-triangle) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepanshuDev09/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0152-maximum-product-subarray](https://github.com/DeepanshuDev09/LeetCode/tree/master/0152-maximum-product-subarray) |
-| [0198-house-robber](https://github.com/DeepanshuDev09/LeetCode/tree/master/0198-house-robber) |
-| [0410-split-array-largest-sum](https://github.com/DeepanshuDev09/LeetCode/tree/master/0410-split-array-largest-sum) |
-| [0435-non-overlapping-intervals](https://github.com/DeepanshuDev09/LeetCode/tree/master/0435-non-overlapping-intervals) |
-| [0509-fibonacci-number](https://github.com/DeepanshuDev09/LeetCode/tree/master/0509-fibonacci-number) |
-| [0877-stone-game](https://github.com/DeepanshuDev09/LeetCode/tree/master/0877-stone-game) |
-| [0907-sum-of-subarray-minimums](https://github.com/DeepanshuDev09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
-| [0940-distinct-subsequences-ii](https://github.com/DeepanshuDev09/LeetCode/tree/master/0940-distinct-subsequences-ii) |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DeepanshuDev09/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeepanshuDev09/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DeepanshuDev09/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
